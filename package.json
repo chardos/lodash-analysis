@@ -18,11 +18,26 @@
   "dependencies": {
     "lodash": "^4.17.11",
     "lodash-es": "^4.17.11",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.conforms": "^4.5.0",
+    "lodash.countby": "^4.6.0",
+    "lodash.curry": "^4.1.1",
+    "lodash.debounce": "^4.0.8",
     "lodash.drop": "^4.1.1",
+    "lodash.escape": "^4.0.1",
     "lodash.fill": "^3.4.0",
+    "lodash.filter": "^4.6.0",
+    "lodash.findlastkey": "^4.7.0",
     "lodash.flatten": "^4.4.0",
+    "lodash.flow": "^3.5.0",
     "lodash.head": "^4.0.1",
+    "lodash.kebabcase": "^4.1.1",
+    "lodash.now": "^4.0.2",
     "lodash.omit": "^4.5.0",
+    "lodash.replace": "^4.1.4",
+    "lodash.stubstring": "^4.13.0",
+    "lodash.union": "^4.6.0",
+    "lodash.zip": "^4.2.0",
     "webpack-common-shake": "^2.1.0"
   }
 }
